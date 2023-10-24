@@ -27,6 +27,7 @@ Run the compiled program using the following command:
    ./Solution_word_Composition.exe
 ```
 The program will prompt you to choose an input file. Enter 1 to process "Input_01.txt" or 2 to process "Input_02.txt."
+
 **Step 5: View Results**
 
 The program will process the selected input file, identify compound words, and display the longest and second-longest compound words found, along with the time taken for processing. If no compound words are found, it will indicate that.
