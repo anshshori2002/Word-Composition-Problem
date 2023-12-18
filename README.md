@@ -63,4 +63,3 @@ The Solution_word_Composition.cpp program is designed to identify compound words
    - The program employs time measurement to determine the processing time for the input files, providing insights into the efficiency of the compound word identification process.
 
 This structured approach ensures that the "Compound Word Identifier" program efficiently identifies compound words within the input data and provides users with clear, informative results.
-
