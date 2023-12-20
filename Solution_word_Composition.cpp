@@ -26,7 +26,6 @@ bool isCompoundWord(const string& word) {
             return true;
         }
     }
-
     return false;  // The word is not a compound word.
 }
 
