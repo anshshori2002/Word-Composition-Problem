@@ -15,4 +15,4 @@
     Enter your Choice: 2
     Longest Compounded Word: ethylenediaminetetraacetates
     Second Longest Compounded Word: electroencephalographically
-    Time taken to process input files: 259 millisecond
+    Time taken to process input files: 259 milliseconds
